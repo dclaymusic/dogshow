@@ -80,7 +80,7 @@ var hackOptions = {
 		'august': { src: 'reece-august.mp3', loop: true },
 		'rishi': { src: 'rishi.mp3', loop: true },
 		'tommy': { src: 'tommy.mp3', loop: true },
-		'zoe': { src: 'hailey.mp3', loop: true },
+		'zoe': { src: 'zoe.mp3', loop: true },
 		'oliver': { src: 'oliver.mp3', loop: true },
 
 
